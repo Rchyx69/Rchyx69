@@ -1,11 +1,11 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Rchyx</h1>
+<h1 align="center">Hi , I'm Rchyx</h1>
 <h3 align="center">A small developer</h3>
 
-- ðŸ”­ Iâ€™m currently working on [Moonsveil](https://www.moonsveil.xyz/)
+- Im currently working on [Moonsveil](https://www.moonsveil.xyz/)
 
-- ðŸŒ± Iâ€™m currently learning **Advanced html and css**
+- Im currently learning **Advanced html and css**
 
-- ðŸ“« How to reach me **rchyx123@gmail.com**
+- How to reach me **rchyx123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
